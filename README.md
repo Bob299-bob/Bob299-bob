@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am Your  passionate self thought Buddy<br> and also a good learner, specially more involved in Coding .<br>Currently I am pursuing MCA.<br>about my skills I am predator in Coding like HTML , CSS, JSS , C ,C++  , python .          
+i am Your  passionate self thought Buddy<br> and also a good learner, specially more involved in Coding .<br>Currently I am pursuing MCA.<br>about my skills I am a predator in Coding like HTML , CSS, JSS , C ,C++  , python .          
 
 
 # 💻 Tech Stack:
